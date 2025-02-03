@@ -1,3 +1,8 @@
+# 노마드코더 ReactJS로 영화 웹 서비스 만들기
+https://nomadcoders.co/react-for-beginners/lobby?utm_source=free_course&utm_campaign=react-for-beginners&utm_medium=site
+리액트 기초 복습용
+배포주소 : https://zihuns.github.io/react-warmup
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
